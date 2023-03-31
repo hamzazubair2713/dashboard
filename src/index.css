@@ -1,0 +1,35 @@
+body {
+  background: #f3f4f5;
+}
+/* .background {
+  background: #597da1 !important;
+} */
+select {
+  width: 100%;
+  color: #565656;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 5px;
+  padding: 0 10px;
+  border: 1px solid #e3e3e3;
+}
+.shadows:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+    rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.modal-table-hight {
+  max-height: 300px;
+  overflow-y: scroll;
+}
+.model-h {
+  max-height: 500px;
+}
+/* .navbar .navbar-brand {
+  font-weight: 400;
+  margin: 5px 0px;
+  font-size: 20px;
+  color: white !important;
+}
+.navbar .navbar-brand:hover {
+  color: #d4d4d4 !important;
+} */
